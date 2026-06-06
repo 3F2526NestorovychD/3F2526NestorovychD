@@ -1,4 +1,4 @@
-## Hi there 👋
+##
 
 <!--
 **3F2526NestorovychD/3F2526NestorovychD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
